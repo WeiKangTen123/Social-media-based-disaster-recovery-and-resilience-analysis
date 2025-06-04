@@ -1,0 +1,16 @@
+streamlit
+scikit-learn
+pandas
+numpy
+nltk
+spacy
+matplotlib
+seaborn
+networkx
+transformers
+cohere
+imbalanced-learn
+geopandas
+python-dotenv
+requests
+beautifulsoup4
